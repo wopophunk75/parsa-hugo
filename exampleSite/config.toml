@@ -78,7 +78,7 @@ contact_form_action = "#"
 # Google Analitycs
 google_analitycs_id = "Your ID"
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+copyright = "Copyright &copy; 2020 a theme by wopo [themefisher.com](themefisher.com)"
 
 # Instagram feed
 [params.instafeed]
