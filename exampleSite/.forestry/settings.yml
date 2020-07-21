@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Impressum
 - type: directory
   path: exampleSite/content
   label: Post
